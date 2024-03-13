@@ -74,8 +74,8 @@
     <section id="contact">
         <h2>Entre em Contato</h2>
         <p>Para mais informações sobre nossos serviços ou para agendar uma consulta, entre em contato conosco:</p>
-        <p>Email: info@certificadosveterinarios.com</p>
-        <p>Telefone: (XX) XXXX-XXXX</p>
+        <p>Email: rebecamusafir@gmail.com</p>
+        <p>Telefone: (21) 97182-1887</p>
     </section>
     <footer>
         <p>&copy; 2024 Serviço de Emissão de Certificados Veterinários</p>
